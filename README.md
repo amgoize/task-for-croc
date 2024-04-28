@@ -1,9 +1,9 @@
 
 # task-for-croc
 ## Автор решения 
-Полетаева Дина Кирилловна
-почта: amgoize@gmail.com
-telegram: @amgoize
++Полетаева Дина Кирилловна
++почта: amgoize@gmail.com
++telegram: @amgoize
 ## Описание реализации
 Проект собран с помощью Maven.
 Для преобразования JSON в Java-обьект в проекте присутствуют три сущности: Order, Item< Category.
